@@ -7,7 +7,7 @@ Following are the reasons this site exists.
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 In this post I explain why I created this website, what it's about and who it's intended for. As the site grows (or changes), I'll try to document my reasoning in making these changes.
-
+ls
 I'm following the official pelican read the docs guide to using pelican for making a sstatic site. I ended off after creating the applican and generating the first article, this one. 
 
 Carry on from [here](pelican.readthedocs.io/en/latest/content.html)
