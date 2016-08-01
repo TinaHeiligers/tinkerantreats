@@ -3,8 +3,7 @@
 <head>
         <meta charset="utf-8" />
         <title>Using R for data and plotting</title>
-        <link rel="stylesheet" href="http://www.tinkerantreats.com/theme/css/main.css" />
-        <link href="http://www.tinkerantreats.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Tinker an Treats Atom Feed" />
+        <link rel="stylesheet" href="/theme/css/main.css" />
 
         <!--[if IE]>
             <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -13,21 +12,36 @@
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="http://www.tinkerantreats.com/">Tinker an Treats </a></h1>
+                <h1><a href="/">Tinker an Treats </a></h1>
                 <nav><ul>
-                    <li><a href="http://www.tinkerantreats.com/pages/python-projects.html">Python projects</a></li>
-                    <li class="active"><a href="http://www.tinkerantreats.com/pages/using-r-for-data-and-plotting.html">Using R for data and plotting</a></li>
-                    <li><a href="http://www.tinkerantreats.com/pages/ruby-projects.html">Ruby projects</a></li>
-                    <li><a href="http://www.tinkerantreats.com/pages/ruby-on-rails-projects.html">Ruby on Rails projects</a></li>
-                    <li><a href="http://www.tinkerantreats.com/pages/other-projects.html">Other projects</a></li>
-                    <li><a href="http://www.tinkerantreats.com/pages/tableau.html">Tableau</a></li>
-                    <li><a href="http://www.tinkerantreats.com/category/general.html">General</a></li>
+                    <li><a href="/pages/python-projects.html">Python projects</a></li>
+                    <li class="active"><a href="/pages/using-r-for-data-and-plotting.html">Using R for data and plotting</a></li>
+                    <li><a href="/pages/ruby-projects.html">Ruby projects</a></li>
+                    <li><a href="/pages/ruby-on-rails-projects.html">Ruby on Rails projects</a></li>
+                    <li><a href="/pages/other-projects.html">Other projects</a></li>
+                    <li><a href="/pages/tableau.html">Tableau</a></li>
+                    <li><a href="/category/general.html">General</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
     <h1 class="entry-title">Using R for data and plotting</h1>
     
     <p>This folder is for R stuff.</p>
+<h2>Data Visualisations:</h2>
+<h3>Scatter plots</h3>
+<ol>
+<li><a href="http://feedproxy.google.com/~r/RBloggers/~3/fHtoZ8qm7Ag/?utm_source=feedburner&amp;utm_medium=email">Plot some variables against many others with tidyr and ggplot2</a> gives a brief tutorial on how to use tidyr and ggplot2 to plot all the variables in the mtcars data set as scatter plots. The code uses piping and facet_wrap instead of lattice, goes through a quick "how-to" on tidying the data and then shows some perks of ggplot2.</li>
+</ol>
+<p>Well worth following for quick vis of data sets that need a visual inspection to find possible correlations between variables.
+2. <a href="http://feedproxy.google.com/~r/RBloggers/~3/Rf0KMF0ZpvU/?utm_source=feedburner&amp;utm_medium=email">Plotting servey data</a> is covered in detail in this post. The author shares his own function in detail, called plot.likert (given in the post), explains input variables and deals with potentially unselected responses.
+Gives explination of defaults to the code.
+The plot is a visualisation of the reponses given with some basics statistics.</p>
+<h2>Working with Data</h2>
+<h3>Merging lists of datasets</h3>
+<ol>
+<li><a href="http://feedproxy.google.com/~r/RBloggers/~3/wj-qU0WpE78/?utm_source=feedburner&amp;utm_medium=email">Merging a list of datasets</a> from a list created by reading in several individual sets from, say .csv, into one list in R is explained in this post.
+Libraries used: readr and tibble. </li>
+</ol>
 </section>
         <section id="extras" class="body">
                 <div class="blogroll">
@@ -42,7 +56,6 @@
                 <div class="social">
                         <h2>social</h2>
                         <ul>
-                            <li><a href="http://www.tinkerantreats.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
 
                             <li><a href="#">You can add links in your config file</a></li>
                             <li><a href="#">Another social link</a></li>
