@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tinker an Treats</title><link href="http://www.tinkerantreats.com/" rel="alternate"></link><link href="http://www.tinkerantreats.com/feeds/all.atom.xml" rel="self"></link><id>http://www.tinkerantreats.com/</id><updated>2016-07-31T00:00:00-07:00</updated><entry><title>Why this site?</title><link href="http://www.tinkerantreats.com/why-this-site.html" rel="alternate"></link><published>2016-07-31T00:00:00-07:00</published><author><name>Tina H</name></author><id>tag:www.tinkerantreats.com,2016-07-31:why-this-site.html</id><summary type="html">&lt;p&gt;Following are the reasons this site exists.&lt;/p&gt;
+&lt;!-- PELICAN_BEGIN_SUMMARY --&gt;
+
+&lt;p&gt;In this post I explain why I created this website, what it's about and who it's intended for. As the site grows (or changes), I'll try to document my reasoning in making these changes.
+ls
+I'm following the official pelican read the docs guide to using pelican for making a sstatic site. I ended off after creating the applican and generating the first article, this one. &lt;/p&gt;
+&lt;p&gt;Carry on from &lt;a href="pelican.readthedocs.io/en/latest/content.html"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Why this site?&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;The obvious question some folks might ask if they happen to stumble across this particular site is: "Why? What's this all about?".&lt;/p&gt;
+&lt;p&gt;I'll tell you straight: This site is for me, it's for my peace of mind and for me to get organised!&lt;/p&gt;
+&lt;p&gt;There's so much I'm learning and &lt;em&gt;have learnt&lt;/em&gt; up to now, that I need a place to relfect on on it all. Yes, it's all on github but that doesn't help me string it all together.&lt;/p&gt;
+&lt;p&gt;Nevermind all the useful links, articles and tutorials I've bookmarked and just haven't gotten 'round to yet. Bookmarks are only useful if they're followed up within a day or two, not, as has been the case thus far, lying there for more than three months.&lt;/p&gt;
+&lt;p&gt;I want somewhere to reflect on apps I've built (with links to them, of course), code I've written and analyses I've done. I want somewhere to put my plots and maps and graphs, somewhere to put my notes on courses, personal stumblings and triamfs and perhaps just to write!&lt;/p&gt;
+&lt;p&gt;So, that's why this is here.&lt;/p&gt;
+&lt;p&gt;As a warning to my future self: this ain't a dedicated tech blog, nor is it a place to 'advertise my skills'. It's a personal space for me to put everything together in ONE place. There's another blog for 'marketing-myself' stuff, it's &lt;a href="https://tinaheiligers.github.io"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yes, there may be the odd actual &lt;em&gt;food&lt;/em&gt; recipe too..&lt;/p&gt;</summary></entry></feed>
