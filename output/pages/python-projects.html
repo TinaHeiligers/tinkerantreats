@@ -27,6 +27,32 @@
     <h1 class="entry-title">Python projects</h1>
     
     <p>This folder is for Python stuff.</p>
+<p>Making a virtual environment work in Sublime text:</p>
+<ol>
+<li>Save as a new Project</li>
+<li>Edit the projectname.sublime-project json script to include the path to the new build envitonment as follows:</li>
+</ol>
+<div class="highlight"><pre><span></span><span class="p">{</span>
+ <span class="s2">&quot;folders&quot;</span><span class="o">:</span>
+ <span class="p">[</span>
+  <span class="p">{</span>
+   <span class="s2">&quot;path&quot;</span><span class="o">:</span> <span class="s2">&quot;.&quot;</span>
+  <span class="p">}</span>
+ <span class="p">],</span>
+ <span class="s2">&quot;virtualenv&quot;</span><span class="o">:</span> <span class="s2">&quot;/Users/Tina/.virtualenvs/strengths&quot;</span><span class="p">,</span>
+ <span class="s2">&quot;build_systems&quot;</span><span class="o">:</span> <span class="p">[</span>
+  <span class="p">{</span>
+   <span class="s2">&quot;name&quot;</span><span class="o">:</span> <span class="s2">&quot;strengths&quot;</span><span class="p">,</span>
+   <span class="s2">&quot;cmd&quot;</span><span class="o">:</span> <span class="p">[</span><span class="s2">&quot;/Users/Tina/.virtualenvs/strengths/bin/python&quot;</span><span class="p">,</span> <span class="s2">&quot;$file&quot;</span><span class="p">]</span>
+  <span class="p">}</span>
+ <span class="p">]</span> 
+<span class="p">}</span>
+</pre></div>
+
+
+<ol>
+<li>Select SHIFT+COMMAND+P to select the build system using build with.....</li>
+</ol>
 </section>
         <section id="extras" class="body">
                 <div class="blogroll">
