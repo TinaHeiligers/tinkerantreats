@@ -27,6 +27,24 @@
     <h1 class="entry-title">Ruby projects</h1>
     
     <p>This folder is for Ruby-only work. Ruby on Rails is in the {Rails folder}content/Rails</p>
+<h1>Tutorials with Code</h1>
+<p>6 Ruby Best Practices Beginners Should Know](https://www.codementor.io/ruby-on-rails/tutorial/6-ruby-best-practices-beginners-should-know) is a fantastic read, concise and gives code to demonstrate the ideas.
+A definate afternooner or eveninger to work through.
+ For example, avoiding loops in Ruby:
+ Don't do
+ <code>for elem in [1, 2, 3, 4, 5]
+puts elem
+end</code>
+Do do:</p>
+<div class="highlight"><pre><span></span>[1, 2, 3, 4, 5].each do |elem|
+    puts elem
+end
+</pre></div>
+
+
+<p>Or even better:</p>
+<div class="highlight"><pre><span></span>[1, 2, 3, 4, 5].each do { |elem| puts elem }
+</pre></div>
 </section>
         <section id="extras" class="body">
                 <div class="blogroll">
