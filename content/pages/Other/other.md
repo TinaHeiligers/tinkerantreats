@@ -23,4 +23,5 @@ We should have [PostgreSQL](https://www.digitalocean.com/community/tutorials/how
 [14 useful code snippets](http://www.datasciencecentral.com/xn/detail/6448529:BlogPost:454184)
 
 Some more code snippets and [tutorials](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice) recommended for working through on Data Science by Data Science Central.
+
 They give links to cheetsheets too for [Python](http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf), [the NumPy, SciPy and Pandas](https://s3.amazonaws.com/quandl-static-content/Documents/Quandl+-+Pandas,+SciPy,+NumPy+Cheat+Sheet.pdf) family, [R functions for regression](http://cran.r-project.org/doc/contrib/Ricci-refcard-regression.pdf) and a very nifty one to check out is the [cross reference between R, Python and Matlab](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf).

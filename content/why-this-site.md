@@ -29,6 +29,6 @@ I want somewhere to reflect on apps I've built (with links to them, of course), 
 
 So, that's why this is here.
 
-As a warning to my future self: this ain't a dedicated tech blog, nor is it a place to 'advertise my skills'. It's a personal space for me to put everything together in ONE place. There's another blog for 'marketing-myself' stuff, it's [here](https://tinaheiligers.github.io)
+As a warning to my future self: this ain't a dedicated tech blog, nor is it a place to 'advertise my skills'. It's a personal space for me to put everything together in ONE place. There's another blog for 'marketing-myself' stuff, it's [here](https://tinaheiligers.github.io) but it looks terrible right now and needs to be restructured.
 
 Yes, there may be the odd actual _food_ recipe too..

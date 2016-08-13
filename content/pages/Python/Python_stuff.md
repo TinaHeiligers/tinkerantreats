@@ -48,3 +48,6 @@ Already signed up to those...
 These I don't need, I'm more than happy working in Sublmie text and iTerm with .zsh.
 6. Data Science Central Resources
 7. Additional Reading
+
+4. Cheet sheets
+THere are several sheet sheets for the statistical and data science libraries used in Python. Links to these are given in the other page `<{other.md}../Other/other.md>`_
