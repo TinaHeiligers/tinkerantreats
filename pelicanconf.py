@@ -40,6 +40,7 @@ EXTRA_PATH_METADATA = {
 }
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 
-CSS_FILE = 'main.css'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
