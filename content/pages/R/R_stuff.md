@@ -3,6 +3,10 @@ Date: 2016-07-31
 Category: R
 
 This folder is for R stuff.
+## R Basics
+I've suckered myself into running an R bootcamp in the Valley and so far have compiled classes that cover a little of the basics.
+The first class on matrices and data frames is very basic and far more info can be found on the web than what I cover in the [document](http://rpubs.com/ChristianeHeiligers/MatricesAndDataFrames).
+The second deals with [reading](http://rpubs.com/ChristianeHeiligers/ReadingDataIntoR) typical data file formats into R.
 
 ## Data Visualisations:
 ### Scatter plots
