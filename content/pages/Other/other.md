@@ -29,17 +29,27 @@ They give links to cheetsheets too for [Python](http://www.astro.up.pt/~sousasag
 # Data Science Topics
 THe Data Incubator offers an immersive program, geared at transforming science PhD's into Data Scientists. They offer fellowships every year and space is limited, so the program is extremely competitive. The spplication process is intense! I know, I've gone through it once, didn't get in but am going to go through it again.
 Once in, the immersion takes over your life but it's well worth it. In their "we regret to inform you..." email, they offer advise in the form of the following blog posts:
+
 1. [Processing Data](http://blog.thedataincubator.com/2015/01/processing-data-like-a-professional-data-scientist/)
+
 2. [Efficient Numerical Computation](http://blog.thedataincubator.com/2015/01/a-cs-degree-for-data-science-part-i-efficient-numerical-computation/)
+
 3. [Ideas for data science projects 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/)
+
 4. [Ideas for data science projects 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
+
 5. [How to prepare for The Data Incubator](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/)
 
 These cover the minimum requirements of preperation for the next round of applications. In "How to prepare for the Data Incubator", 5 key topics of 'must-have-skills' are outlined, including:
+
 1. Scraping
+
 2. SQL
+
 3. Data frames ([Pandas tutorial on you tube](https://www.youtube.com/watch?v=w26x-z-BdWQ) and the [code](https://github.com/estimate/pandas-exercises) to follow along).
+
 4. Machine Learning
+
 5. Visualization
 
 On the [page](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/) they give links to useful libraries to cover each topic mentioned.
