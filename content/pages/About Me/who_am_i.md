@@ -4,11 +4,11 @@ Category: Me
 
 
 <!-- PELICAN_BEGIN_SUMMARY -->
-I'm a person, a human and, oh yes, a scientist I guess.
+I'm a person, a human and, oh yes, a scientist.
 Well, I have a PhD in Physics, so by formal training, I'm a doctor of phyiscs.
-More importantly, I'm just plain curious, a sucker for learning and, apparently, putting others first.
-Experience has told me I fall into that trap way too often, mostly at my own detriment.
-More to follow...
+More importantly, I'm just plain curious, a sucker for learning and love a challenge.
+Experience has told me there's so much to learn it can get overwhelming, but it's part of the fun of life!
+
+Who would have thought, 6 months ago, that this site would be up? I certainly didn't but here it is and it's evolving daily.
 ----------------------------------
 
-### Why this site?

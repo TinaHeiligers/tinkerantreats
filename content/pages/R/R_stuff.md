@@ -1,8 +1,8 @@
-Title: Using R for data and plotting
+Title: R
 Date: 2016-07-31
 Category: R
 
-This folder is for R stuff.
+You'll only find R-related things here..
 ## R Basics
 I've suckered myself into running an R bootcamp in the Valley and so far have compiled classes that cover a little of the basics.
 The first class on matrices and data frames is very basic and far more info can be found on the web than what I cover in the [document](http://rpubs.com/ChristianeHeiligers/MatricesAndDataFrames).
@@ -14,7 +14,7 @@ The second deals with [reading](http://rpubs.com/ChristianeHeiligers/ReadingData
 2. [Geographic filled area plots](https://www.r-bloggers.com/map-the-life-expectancy-in-united-states-with-data-from-wikipedia/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29) are created for life expectancy data gatheres from wikepedia in this R-bloggers post. It gives code used to make the plots and is a work-through tutorial. A definite must to go through and use for the R **bootcamp**!
 
 Well worth following for quick vis of data sets that need a visual inspection to find possible correlations between variables.
-3. [Plotting servey data](http://feedproxy.google.com/~r/RBloggers/~3/Rf0KMF0ZpvU/?utm_source=feedburner&utm_medium=email) is covered in detail in this post. The author shares his own function in detail, called plot.likert (given in the post), explains input variables and deals with potentially unselected responses.
+3. [Plotting survey data](http://feedproxy.google.com/~r/RBloggers/~3/Rf0KMF0ZpvU/?utm_source=feedburner&utm_medium=email) is covered in detail in this post. The author shares his own function in detail, called plot.likert (given in the post), explains input variables and deals with potentially unselected responses.
 Gives explination of defaults to the code.
 The plot is a visualisation of the reponses given with some basics statistics.
 
