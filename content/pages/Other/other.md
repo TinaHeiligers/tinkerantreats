@@ -8,7 +8,7 @@ This page is for absolutely everything else.
 A very informative visualisation of the impact of pitching computers to boys at an early stage shows that it had a massive impact on the gender balance, or rather, imbalance in the field:
 "Zogg from Betelgeuse (@ZoggTheAlien)
 3/8/16, 15:35
-I made an animated gif to explain why [female Earthlings stopped coding](pic.twitter.com/O2fFBuUe7m) in 1984. pic.twitter.com/O2fFBuUe7m"
+I made an animated gif to explain why [female Earthlings stopped coding](https://twitter.com/ZoggTheAlien/status/707334009475481602/photo/1) in 1984. pic.twitter.com/O2fFBuUe7m"
 
 # Server Stuff
 ## Connecting to a server
