@@ -28,3 +28,16 @@ Libraries used: readr and tibble.
 1. [readr 1.0.0](https://www.r-bloggers.com/readr-1-0-0/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29), explained nicely in an R-bloggers post by [Hadley Wickam](https://www.r-bloggers.com/author/hadleywickham/) himself, is used to read in .csv files. THe blog explains how to set column types, adding in throwing errors should there be a problem, deals with date-time parsing, low-level readers and writers and a few other changes. Two functions are mentioned that enable one to read in chuncks of data for data sets that are too big for memory, althought these are experimental API's and the user is warned to use the functions with care. These functions are read_csv_chunked() and read_lines_chunked(). 
 2. [Image recognition](https://www.r-bloggers.com/image-recognition-in-r-using-convolutional-neural-networks-with-the-mxnet-package/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29) is dealt with in this post that uses the EBImage package to work with images of different sizes. There's some code but the user has to provide there own images.
 Could be useful to work through, especially the **ML** part!
+3. [jailbreakr](https://www.r-bloggers.com/extract-tables-from-messy-spreadsheets-with-jailbreakr/), a fairly new package and very appropriately named makes extracting tables from messy spreadsheets a little easier. There's a 20 odd minute video included in the link and the main page shows a spreadsheet no one in their right mind would want to willing extract data from!
+
+## Skills Tests in R:
+### R for Data Science:
+Verious [tests](https://www.analyticsvidhya.com/blog/2016/08/full-solution-skill-test-on-r-for-data-science/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29) and the full solution for these tests on the basics of using R are given in this post from the Analytics Vidhya.
+
+### R for Statistics
+Of course, it's all great and fine to be able to manipulate data but we need to infer things from the data using [statistics](https://www.analyticsvidhya.com/blog/2016/08/solutions-for-skilltest-in-statistics-revealed/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29).
+
+Another test and solution set from the Analytics Vidhya is useful for refreshing one's memory (or learning very quickly!).
+
+# Sentiment Analysis using R and Shiny
+Diego lescano posted what looks like a reasonably short tutorial on  how to create a simple application in R & Shiny to perform [Twitter Sentiment Analysis](http://www.datasciencecentral.com/profiles/blogs/how-to-create-a-twitter-sentiment-analysis-using-r-and-shiny) in real-time. While it looks short and the code isn't long, various packages are used (shiny, tm, workcloud, twitteR) and it may not be as easy as first appearances suggest.
