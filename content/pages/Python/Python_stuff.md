@@ -32,6 +32,7 @@ This page is for Python related goodies.
 There's a host of free online leraning materials that look well worth exploring.
 [Data Science Central's](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science) lists a whole hist of links to the categories given below. Here, I'm only going to document and give links to the ones I think I'll get to.
 
+
 ## Tutorials
 [Codementor](https://www.codementor.io/startups/tutorial) appears to be free, has sections for [Tutorials](https://www.codementor.io/tutorial), [Insights](https://www.codementor.io/learn-programming), [Startups](https://www.codementor.io/startups/tutorial), a [blog](https://www.codementor.io/blog) and [Case Studies](https://www.codementor.io/success-stories).
 
@@ -52,6 +53,23 @@ THere are several sheet sheets for the statistical and data science libraries us
 # Machine Learning
 Basically, machine learning problems can be split into two fields: classification and prediction. Classification is supervised learning where we want to find the similarity between variables where supervision ocmes into play in that the training set has been classified already.
 Prediction is generally unsupervised learning, where we want to predict an outcome based on some data.
+
+## Common algorithms
+Analytics Vidhya did it again with a fantastic [post](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) giving both R and python code for 10 most commonly used machine learning algorithms.
+It covers just the basics, but is a great start!
+Algorithms covered:
+1. Linear Regression
+2. Logistic regressing
+3. Decision Tree
+4. SVM (Support Vector Machine)
+5. Naive Bayes
+6. kNN (k-Nearest Neighbors)
+7. k-Means
+8. Random Forest
+9. Dimensionality Reduction Algorithms
+10. Gradient Boosting & AdaBoost.
+The R code is concise and there are a few lines of comments describing what the code does but msot of the pseudocode is given in the Python code section. It's referenced again on that page.
+
 
 ## Linear classification
 An example of linear classification of [images of cats and dogs](http://www.pyimagesearch.com/2016/08/22/an-intro-to-linear-classification-with-python/) is given in this excellent work-through tutorial.

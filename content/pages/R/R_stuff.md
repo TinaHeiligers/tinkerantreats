@@ -41,3 +41,19 @@ Another test and solution set from the Analytics Vidhya is useful for refreshing
 
 # Sentiment Analysis using R and Shiny
 Diego lescano posted what looks like a reasonably short tutorial on  how to create a simple application in R & Shiny to perform [Twitter Sentiment Analysis](http://www.datasciencecentral.com/profiles/blogs/how-to-create-a-twitter-sentiment-analysis-using-r-and-shiny) in real-time. While it looks short and the code isn't long, various packages are used (shiny, tm, workcloud, twitteR) and it may not be as easy as first appearances suggest.
+
+# Machine Learning - Common algorithms
+Analytics Vidhya did it again with a fantastic [post](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) giving both R and python code for 10 most commonly used machine learning algorithms.
+It covers just the basics, but is a great start!
+Algorithms covered:
+1. Linear Regression
+2. Logistic regressing
+3. Decision Tree
+4. SVM (Support Vector Machine)
+5. Naive Bayes
+6. kNN (k-Nearest Neighbors)
+7. k-Means
+8. Random Forest
+9. Dimensionality Reduction Algorithms
+10. Gradient Boosting & AdaBoost.
+The R code is concise and there are a few lines of comments describing what the code does but msot of the pseudocode is given in the Python code section. It's referenced again on that page.
