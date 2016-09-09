@@ -34,9 +34,9 @@ SOCIAL = (('twitter', 'http://twitter.com/tinaheiligers1'),
 
 SUMMARY_MAX_LENGTH = 20
 
-STATIC_PATHS = ['extra/CNAME']
+STATIC_PATHS = ['CNAME']
 EXTRA_PATH_METADATA = {
-  'extra/CNAME':{'path':'CNAME'}
+  'CNAME':{'path':'CNAME'}
 }
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
 
