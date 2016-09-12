@@ -63,6 +63,12 @@ Machine learning, is it's raw essence is either classification or prediction pro
 
 Here's a link to a linear classification problem in python: '<{Python_stuff.md}../Python/Python_stuff.md>'
 
+Useful resources for dealing with factors or factor-like variables in a machine learning algorithm are:
+1. [One-hot/One-of-k](http://code-factor.blogspot.com/2012/10/one-hotone-of-k-data-encoder-for.html) Data Encoder for Machine Learning.
+2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
+4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
+
 # Visualization
 On the [page](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/) they give links to useful libraries to cover each topic mentioned.
 
