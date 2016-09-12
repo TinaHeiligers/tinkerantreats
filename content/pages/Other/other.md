@@ -52,11 +52,15 @@ Once in, the immersion takes over your life but it's well worth it. In their "we
 These cover the minimum requirements of preperation for the next round of applications. In "How to prepare for the Data Incubator", 5 key topics of 'must-have-skills' are outlined, including:
 
 An excellent overview of a fantastic final capstone project on [Rap Analysis](http://www.datasciencecentral.com/profiles/blogs/our-berkeley-data-science-capstone-project-rap-analysis) is an inspirational read.
+
 # Scraping
+To come soon...
 
 # SQL
+To come soon...
 
-# Data frames ([Pandas tutorial on you tube](https://www.youtube.com/watch?v=w26x-z-BdWQ) and the [code](https://github.com/estimate/pandas-exercises) to follow along).
+# Data frames
+([Pandas tutorial on you tube](https://www.youtube.com/watch?v=w26x-z-BdWQ) and the [code](https://github.com/estimate/pandas-exercises) to follow along).
 
 # Machine Learning
 Machine learning, is it's raw essence is either classification or prediction problems. These are done using algorithms stemmed from raw maths. If you understand the maths, the rest is simply coding it all together!
@@ -68,6 +72,7 @@ Useful resources for dealing with factors or factor-like variables in a machine 
 2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
 4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
+
 
 # Visualization
 On the [page](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/) they give links to useful libraries to cover each topic mentioned.

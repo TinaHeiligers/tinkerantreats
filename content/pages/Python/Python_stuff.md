@@ -54,6 +54,17 @@ THere are several sheet sheets for the statistical and data science libraries us
 Basically, machine learning problems can be split into two fields: classification and prediction. Classification is supervised learning where we want to find the similarity between variables where supervision ocmes into play in that the training set has been classified already.
 Prediction is generally unsupervised learning, where we want to predict an outcome based on some data.
 
+Useful resources for dealing with factors or factor-like variables in a machine learning algorithm are:
+
+1. [One-hot/One-of-k](http://code-factor.blogspot.com/2012/10/one-hotone-of-k-data-encoder-for.html) Data Encoder for Machine Learning.
+
+2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
+
+4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
+
+
 ## Common algorithms
 Analytics Vidhya did it again with a fantastic [post](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) giving both R and python code for 10 most commonly used machine learning algorithms.
 It covers just the basics, but is a great start!
