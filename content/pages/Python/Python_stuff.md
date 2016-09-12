@@ -69,16 +69,27 @@ Useful resources for dealing with factors or factor-like variables in a machine 
 Analytics Vidhya did it again with a fantastic [post](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) giving both R and python code for 10 most commonly used machine learning algorithms.
 It covers just the basics, but is a great start!
 Algorithms covered:
+
 1. Linear Regression
+
 2. Logistic regressing
+
 3. Decision Tree
+
 4. SVM (Support Vector Machine)
+
 5. Naive Bayes
+
 6. kNN (k-Nearest Neighbors)
+
 7. k-Means
+
 8. Random Forest
+
 9. Dimensionality Reduction Algorithms
+
 10. Gradient Boosting & AdaBoost.
+
 The R code is concise and there are a few lines of comments describing what the code does but msot of the pseudocode is given in the Python code section. It's referenced again on that page.
 
 
