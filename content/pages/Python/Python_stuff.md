@@ -1,32 +1,7 @@
 Title: Python projects
-Date: 2016-07-31
+Date: 2016-09-15
 Category: Python
 
-This page is for Python related goodies.
-
-# Making a virtual environment work in Sublime text:
-
-1. Save as a new Project
-2. Edit the projectname.sublime-project json script to include the path to the new build envitonment as follows:
-
-``` javascript
-{
- "folders":
- [
-  {
-   "path": "."
-  }
- ],
- "virtualenv": "/Users/Tina/.virtualenvs/strengths",
- "build_systems": [
-  {
-   "name": "strengths",
-   "cmd": ["/Users/Tina/.virtualenvs/strengths/bin/python", "$file"]
-  }
- ] 
-}
-```
-3. Select SHIFT+COMMAND+P to select the build system using build with.....
 
 # Learning Python for Data Science
 There's a host of free online leraning materials that look well worth exploring.
@@ -50,54 +25,35 @@ Already signed up to those...
 ## Cheet sheets
 THere are several sheet sheets for the statistical and data science libraries used in Python. Links to these are given in the other page `<{other.md}../Other/other.md>`_
 
-# Machine Learning
-Basically, machine learning problems can be split into two fields: classification and prediction. Classification is supervised learning where we want to find the similarity between variables where supervision ocmes into play in that the training set has been classified already.
-Prediction is generally unsupervised learning, where we want to predict an outcome based on some data.
-
-Useful resources for dealing with factors or factor-like variables in a machine learning algorithm are:
-
-1. [One-hot/One-of-k](http://code-factor.blogspot.com/2012/10/one-hotone-of-k-data-encoder-for.html) Data Encoder for Machine Learning.
-
-2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-
-3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
-
-4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
-
-
-## Common algorithms
-Analytics Vidhya did it again with a fantastic [post](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) giving both R and python code for 10 most commonly used machine learning algorithms.
-It covers just the basics, but is a great start!
-Algorithms covered:
-
-1. Linear Regression
-
-2. Logistic regressing
-
-3. Decision Tree
-
-4. SVM (Support Vector Machine)
-
-5. Naive Bayes
-
-6. kNN (k-Nearest Neighbors)
-
-7. k-Means
-
-8. Random Forest
-
-9. Dimensionality Reduction Algorithms
-
-10. Gradient Boosting & AdaBoost.
-
-The R code is concise and there are a few lines of comments describing what the code does but msot of the pseudocode is given in the Python code section. It's referenced again on that page.
-
-
-## Linear classification
-An example of linear classification of [images of cats and dogs](http://www.pyimagesearch.com/2016/08/22/an-intro-to-linear-classification-with-python/) is given in this excellent work-through tutorial.
-The tutorial makes extensive use of the scikit-learn library and numpy. Pandas is not used.
-
 # Data Visualisation
 Interactive maps are the rage right now and that's because they're fascinating!
 Drawing on inspiration from Leaflet and Libchamplain, [mapview](https://github.com/kivy-garden/garden.mapview) is a Kivy widget for doing just that.
 THe link will take you to the github repo and the readme explains feautres, requirements, installation and usage.
+
+# Making a virtual environment work in Sublime text:
+Best practice to keep your coding environment in a reasonably managed state is to use virtual environments. This becomes especially important if you end up using many different libraries.
+
+I like building my code in sublime text as far as possible, call me lazy for not wanting to switch between subl and the term, but it's my style for now!
+
+
+1. Save as a new Project
+2. Edit the projectname.sublime-project json script to include the path to the new build envitonment as follows:
+
+``` javascript
+{
+ "folders":
+ [
+  {
+   "path": "."
+  }
+ ],
+ "virtualenv": "/Users/Tina/.virtualenvs/strengths",
+ "build_systems": [
+  {
+   "name": "strengths",
+   "cmd": ["/Users/Tina/.virtualenvs/strengths/bin/python", "$file"]
+  }
+ ] 
+}
+```
+3. Select SHIFT+COMMAND+P to select the build system using build with.....

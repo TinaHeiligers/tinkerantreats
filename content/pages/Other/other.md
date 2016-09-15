@@ -1,5 +1,5 @@
 Title: Other projects
-Date: 2016-07-31
+Date: 2016-09-15
 Category: Other
 
 This page is for absolutely everything else.
@@ -53,33 +53,8 @@ These cover the minimum requirements of preperation for the next round of applic
 
 An excellent overview of a fantastic final capstone project on [Rap Analysis](http://www.datasciencecentral.com/profiles/blogs/our-berkeley-data-science-capstone-project-rap-analysis) is an inspirational read.
 
-# Scraping
-To come soon...
-
-# SQL
-To come soon...
-
 # Data frames
 ([Pandas tutorial on you tube](https://www.youtube.com/watch?v=w26x-z-BdWQ) and the [code](https://github.com/estimate/pandas-exercises) to follow along).
-
-# Machine Learning
-Machine learning, is it's raw essence is either classification or prediction problems. These are done using algorithms stemmed from raw maths. If you understand the maths, the rest is simply coding it all together!
-
-Here's a link to a linear classification problem in python: '<{Python_stuff.md}../Python/Python_stuff.md>'
-
-Useful resources for dealing with factors or factor-like variables in a machine learning algorithm are:
-1. [One-hot/One-of-k](http://code-factor.blogspot.com/2012/10/one-hotone-of-k-data-encoder-for.html) Data Encoder for Machine Learning.
-2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
-4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
-
-## Machine Learning - taken seriously
-Going from knowling almost nothing to using machine learning in a "day-job" (if you're lucky enough to have one of those illusive things) can be done. Apparently, it can be done within a year. If taken seriously, very, very seriously!
-Mr Borgen articulate his journey down this road very well in a [blog](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d3ggjur7t) post that starts with some Python code snippets. It's eye catching, a great read and makes it sound like a breeze at first. Then the nerves set in as one begins to realise the dedication, time and commitment it takes to venture up this very, very steep learning curve.
-However, it can be done, like anything else, it's possible if broken down into steps, the first of which is reading his how-to-guide on [ML in a week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.n7uc79x7m).
-
-#AI
-What to write a few lines of Python following the PEP8 style guide? Then dive into this code that uses AI to get a bot to [reach 133/3131 in a Tron](http://kootenpv.github.io/2016-09-07-ai-challenge-in-78-lines) game. Apparently, there are other bots that have been written using many, many more lines of code, so it's an informative read.
 
 # Visualization
 On the [page](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/) they give links to useful libraries to cover each topic mentioned.
