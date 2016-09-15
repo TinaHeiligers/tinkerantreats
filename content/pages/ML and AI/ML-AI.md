@@ -1,6 +1,6 @@
-Title: Machine Learning and Artificial Intellegence.
+Title: ML and AI
 Date: 2016-09-15
-Category: ML and AI
+Category: Machine Learning and Artificial Intellegence.
 
 These were brief paragraphs and links scattered throughout the pages on this site and it became high time to gather these concepts together in their own category.
 
