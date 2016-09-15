@@ -73,6 +73,13 @@ Useful resources for dealing with factors or factor-like variables in a machine 
 3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
 4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
 
+## Machine Learning - taken seriously
+Going from knowling almost nothing to using machine learning in a "day-job" (if you're lucky enough to have one of those illusive things) can be done. Apparently, it can be done within a year. If taken seriously, very, very seriously!
+Mr Borgen articulate his journey down this road very well in a [blog](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d3ggjur7t) post that starts with some Python code snippets. It's eye catching, a great read and makes it sound like a breeze at first. Then the nerves set in as one begins to realise the dedication, time and commitment it takes to venture up this very, very steep learning curve.
+However, it can be done, like anything else, it's possible if broken down into steps, the first of which is reading his how-to-guide on [ML in a week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.n7uc79x7m).
+
+#AI
+What to write a few lines of Python following the PEP8 style guide? Then dive into this code that uses AI to get a bot to [reach 133/3131 in a Tron](http://kootenpv.github.io/2016-09-07-ai-challenge-in-78-lines) game. Apparently, there are other bots that have been written using many, many more lines of code, so it's an informative read.
 
 # Visualization
 On the [page](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/) they give links to useful libraries to cover each topic mentioned.
