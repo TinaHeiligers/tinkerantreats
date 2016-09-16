@@ -1,5 +1,5 @@
 Title: ML and AI
-Date: 2016-09-15
+Date: 2016-09-16
 Category: Machine Learning and Artificial Intelligence.
 
 These were brief paragraphs and links scattered throughout the pages on this site and it became high time to gather these concepts together in their own category.
@@ -61,14 +61,20 @@ The tutorial makes extensive use of the scikit-learn library and numpy. Pandas i
 
 
 Useful resources for dealing with factors or factor-like variables in a machine learning algorithm are:
+
 1. [One-hot/One-of-k](http://code-factor.blogspot.com/2012/10/one-hotone-of-k-data-encoder-for.html) Data Encoder for Machine Learning.
+
 2. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
+
 4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
 
 ## Machine Learning - taken seriously
 Going from knowing almost nothing to using machine learning in a "day-job" (if you're lucky enough to have one of those illusive things) can be done. Apparently, it can be done within a year. If taken seriously, very, very seriously!
+
 Mr Borgen articulate his journey down this road very well in a [blog](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.d3ggjur7t) post that starts with some Python code snippets. It's eye catching, a great read and makes it sound like a breeze at first. Then the nerves set in as one begins to realize the dedication, time and commitment it takes to venture up this very, very steep learning curve.
+
 However, it can be done, like anything else, it's possible if broken down into steps, the first of which is reading his how-to-guide on [ML in a week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.n7uc79x7m).
 
 
@@ -81,19 +87,17 @@ A good place to start is reading Q&A blogs, such as [this one](https://www.analy
 I learned a lot by a simple read-through, and it offers links for further clarification of the underlying principles. 
 
 For example:
-_"Q12. How is kNN different from kmeans clustering?
+"Q12. How is kNN different from kmeans clustering?
 
-Answer: Don’t get mislead by ‘k’ in their names. You should know that the fundamental difference between both these algorithms is, kmeans is unsupervised in nature and kNN is supervised in nature. kmeans is a clustering algorithm. kNN is a classification (or regression) algorithm..."_
+Answer: Don’t get mislead by ‘k’ in their names. You should know that the fundamental difference between both these algorithms is, kmeans is unsupervised in nature and kNN is supervised in nature. kmeans is a clustering algorithm. kNN is a classification (or regression) algorithm..."
 
 For the more mathematically inclined, there are equations too:
-_"Q13. How is True Positive Rate and Recall related? Write the equation.
+"Q13. How is True Positive Rate and Recall related? Write the equation.
 
-Answer: True Positive Rate = Recall. Yes, they are equal having the formula (TP/TP + FN)."_
+Answer: True Positive Rate = Recall. Yes, they are equal having the formula (TP/TP + FN)."
 
-_"Q14. You have built a multiple regression model. Your model R² isn’t as good as you wanted. For improvement, your remove the intercept term, your model R² becomes 0.8 from 0.3. Is it possible? How?
+"Q14. You have built a multiple regression model. Your model R² isn’t as good as you wanted. For improvement, your remove the intercept term, your model R² becomes 0.8 from 0.3. Is it possible? How?
 
 Answer: Yes, it is possible. We need to understand the significance of intercept term in a regression model. The intercept term is shows model prediction without any independent variable i.e. mean prediction. The formula of R² = 1 – ∑(y – y´)²/∑(y – ymean)² where y´ is predicted value.   
 
-When intercept term is present, R² value evaluates your model wrt. to the mean model. In absence of intercept term (ymean), the model can make no such evaluation, with large denominator, ∑(y - y´)²/∑(y)² equation’s value becomes smaller than actual, resulting in higher R²._"
-
-etc, etc.
+When intercept term is present, R² value evaluates your model wrt. to the mean model. In absence of intercept term (ymean), the model can make no such evaluation, with large denominator, ∑(y - y´)²/∑(y)² equation’s value becomes smaller than actual, resulting in higher R²."

@@ -1,8 +1,8 @@
 Title: Ruby projects
-Date: 2016-07-31
+Date: 2016-09-16
 Category: Ruby
 
-This folder is for Ruby-only work. Ruby on Rails is in the {Rails folder}content/Rails
+This folder is for Ruby-only work. Ruby on Rails is in the Ruby on Rails tab.
 
 # Tutorials with Code
 [6 Ruby Best Practices Beginners Should Know](https://www.codementor.io/ruby-on-rails/tutorial/6-ruby-best-practices-beginners-should-know) is a fantastic read, concise and gives code to demonstrate the ideas.

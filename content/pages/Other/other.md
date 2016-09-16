@@ -1,5 +1,5 @@
 Title: Other projects
-Date: 2016-09-15
+Date: 2016-09-16
 Category: Other
 
 This page is for absolutely everything else.
@@ -54,10 +54,10 @@ These cover the minimum requirements of preparation for the next round of applic
 An excellent overview of a fantastic final capstone project on [Rap Analysis](http://www.datasciencecentral.com/profiles/blogs/our-berkeley-data-science-capstone-project-rap-analysis) is an inspirational read.
 
 # Data frames
-([Pandas tutorial on you tube](https://www.youtube.com/watch?v=w26x-z-BdWQ) and the [code](https://github.com/estimate/pandas-exercises) to follow along).
+[Pandas tutorial on you tube](https://www.youtube.com/watch?v=w26x-z-BdWQ) and the [code](https://github.com/estimate/pandas-exercises) to follow along.
 
 # Visualization
-On the [page](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/) they give links to useful libraries to cover each topic mentioned.
+On the [Data Incubator website](http://blog.thedataincubator.com/2014/09/how-to-prepare-for-the-data-incubator/), they give links to useful libraries to cover each topic mentioned above.
 
 # Statistics and Regression
 3D linear regression is explained very well in [this](http://stackoverflow.com/questions/24747643/3d-linear-regression) Stack Overflow Q&A post. It's a definite must read and follow along!
