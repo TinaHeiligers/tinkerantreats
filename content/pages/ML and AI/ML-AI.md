@@ -1,5 +1,5 @@
 Title: ML and AI
-Date: 2016-09-16
+Date: 2016-09-21
 Category: Machine Learning and Artificial Intelligence.
 
 These were brief paragraphs and links scattered throughout the pages on this site and it became high time to gather these concepts together in their own category.

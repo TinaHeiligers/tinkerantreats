@@ -1,5 +1,5 @@
 Title: Front End Web Development
-Date: 2016-09-16
+Date: 2016-09-21
 Category: Tableau
 
 My latest study immersion is making things look good. Playing with layouts, color schemes, responsive sizing etc is challenging, takes time (it's all rather frustrating having an alignment issue with 1 px!) but is fun.
