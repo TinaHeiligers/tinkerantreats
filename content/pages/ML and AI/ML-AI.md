@@ -9,6 +9,9 @@ If there is anyone who reads this and is kind enough to point out where it becom
 
 Both R and Python are used in the links that follow.
 
+# Map it through!
+New? Don't know where to start? Look no further! Follow this [map](http://scikit-learn.org/stable/tutorial/machine_learning_map/) and you'll get somewhere...
+
 # Machine Learning
 Machine learning, is it's raw essence is either classification or prediction problems. These are done using algorithms stemmed from raw maths. If you understand the maths, the rest is simply coding it all together!
 
@@ -25,7 +28,6 @@ Useful resources for dealing with factors or factor-like variables in a machine 
 3. [OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) within the scikit learn library.
 
 4. Converting [categorical data](http://fastml.com/converting-categorical-data-into-numbers-with-pandas-and-scikit-learn/) into numbers with Pandas and Scikit-learn
-
 
 ## Common algorithms
 Analytics Vidhya did it again with a fantastic [post](https://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/) giving both R and python code for 10 most commonly used machine learning algorithms.
@@ -54,6 +56,7 @@ Algorithms covered:
 
 The R code is concise and there are a few lines of comments describing what the code does but most of the pseudo code is given in the Python code section. It's referenced again on that page.
 
+In case some have been missed, another post covers their [10 algorithms](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.k5g1mndg5) ML engineers need to know.
 
 ## Linear classification
 An example of linear classification of [images of cats and dogs](http://www.pyimagesearch.com/2016/08/22/an-intro-to-linear-classification-with-python/) is given in this excellent work-through tutorial.
@@ -101,3 +104,5 @@ Answer: True Positive Rate = Recall. Yes, they are equal having the formula (TP/
 Answer: Yes, it is possible. We need to understand the significance of intercept term in a regression model. The intercept term is shows model prediction without any independent variable i.e. mean prediction. The formula of R² = 1 – ∑(y – y´)²/∑(y – ymean)² where y´ is predicted value.   
 
 When intercept term is present, R² value evaluates your model wrt. to the mean model. In absence of intercept term (ymean), the model can make no such evaluation, with large denominator, ∑(y - y´)²/∑(y)² equation’s value becomes smaller than actual, resulting in higher R²."
+
+

@@ -10,6 +10,8 @@ A very informative visualization of the impact of pitching computers to boys at 
 3/8/16, 15:35
 I made an animated gif to explain why [female Earthlings stopped coding](https://twitter.com/ZoggTheAlien/status/707334009475481602/photo/1) in 1984. pic.twitter.com/O2fFBuUe7m"
 
+[The imposter syndrome](https://thedesignteam.io/the-imposter-ddbe96b14e14#.jrads4ayg) is something we may all have felt at some stage or another. If you don't know what the syndrome means, good for you!. If, however, you do, the cartoon is a great help!
+
 # Server Stuff
 ## Connecting to a server
 
