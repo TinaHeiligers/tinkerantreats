@@ -1,9 +1,9 @@
-Title: Django projects
+Title: Django Projects
 Date: 2016-09-25
 Category: Django, Python
 
 #What is Django?
-According to the official [Django project website](https://www.djangoproject.com/), Django is a "high-level Python Web framework that encourages rapid development and clean, pragmatic design".
+According to the official [Django project website](https://www.djangoproject.com), Django is a "high-level Python Web framework that encourages rapid development and clean, pragmatic design".
 Django is to Python as Rails is to Ruby, both designed for a particular programming language, both open source and hence, both free. 
 
 #Django quick set-up guides
