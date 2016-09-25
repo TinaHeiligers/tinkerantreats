@@ -1,5 +1,5 @@
 Title: ML and AI
-Date: 2016-09-21
+Date: 2016-09-25
 Category: Machine Learning and Artificial Intelligence.
 
 These were brief paragraphs and links scattered throughout the pages on this site and it became high time to gather these concepts together in their own category.
@@ -14,6 +14,7 @@ New? Don't know where to start? Look no further! Follow this [map](http://scikit
 
 # Machine Learning
 Machine learning, is it's raw essence is either classification or prediction problems. These are done using algorithms stemmed from raw maths. If you understand the maths, the rest is simply coding it all together!
+Some great intro's to the subject using the Python library Scikit-Learn are given by Jake VanderPlas in his [collection of goodies](http://staff.washington.edu/jakevdp/speaking.html). 
 
 # Overview
 Basically, machine learning problems can be split into two fields: classification and prediction. Classification is supervised learning where we want to find the similarity between variables where supervision comes into play in that the training set has been classified already.

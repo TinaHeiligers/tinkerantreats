@@ -64,3 +64,7 @@ On the [Data Incubator website](http://blog.thedataincubator.com/2014/09/how-to-
 # Statistics and Regression
 3D linear regression is explained very well in [this](http://stackoverflow.com/questions/24747643/3d-linear-regression) Stack Overflow Q&A post. It's a definite must read and follow along!
 
+#Old Jeek Job Searches
+Admit it, it's tough finding a job anywhere, in advanced fields. Tech is no different and it gets even more difficult if you're older and recently went from a PhD Physicist to a newb in programming. Fear not, keep [looking](https://oldgeekjobs.com/), eventually, someone's gotta hire you, right?
+
+
