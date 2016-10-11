@@ -29,4 +29,4 @@ So, that's why this is here.
 
 As a warning to my future self: this ain't a dedicated tech blog, nor is it a place to 'advertise my skills'. It's a personal space for me to put everything together in ONE place. There's another blog for 'marketing-myself' stuff yet to be built, but for now, I'll stick with [LinkedIn](https://www.linkedin.com/in/christianeheiligers).
 
-Oh yes, there may be the odd actual _food_ recipe too..
+Oh yes, there may be the odd actual _food_ recipe and a blog post or two..
