@@ -8,10 +8,11 @@ Category: General, blogs
 
 ----------------------------------
 
-Neither rain nor cold could dampen the warm, kind, sharing environment at [Ruby D Camp](http://rubydcamp.org/about.html) this weekend. Code and camping and 77 other Ruby enthusiasts made for an experience not to be forgotten! 
-We cooked together, we coded together, we chatted and laughed together. We played board games in the evening after intensive day-long discussions where everyone had a voice.
+Neither rain nor cold could dampen the warm, kind, sharing environment at [Ruby D Camp](http://rubydcamp.org/about.html) this weekend. 
+[Code and camping]({filename}/images/setting.jpg) and 77 other Ruby enthusiasts made for an experience not to be forgotten! 
+We cooked together, we coded together, we chatted and laughed together. We played [board games]({filename}/images/board_games.jpg) in the evening after intensive day-long discussions where everyone had a voice.
 
-I've never been to a conference from which I learnt so much. Not just about code but also about people who code, their journeys, common concerns and internal conflicts. 
+I've never been to a conference from which I learnt so much. Not just about code but also about [people who code]({filename}/images/crowd.jpg), their journeys, common concerns and internal conflicts. 
 
 I knew it would be an internal challenge, bordering on a personal 'risk' of exposing how new I am to this tech world in a setting where one cannot hide! 
 

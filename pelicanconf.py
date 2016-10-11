@@ -34,7 +34,7 @@ SOCIAL = (('twitter', 'http://twitter.com/tinaheiligers1'),
 
 SUMMARY_MAX_LENGTH = 20
 
-STATIC_PATHS = ['CNAME']
+STATIC_PATHS = ['CNAME', 'images']
 EXTRA_PATH_METADATA = {
   'CNAME':{'path':'CNAME'}
 }
