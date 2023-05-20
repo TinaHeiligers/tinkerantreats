@@ -1,3 +1,6 @@
+# DEPRECATE
+EOL: 2017
+
 # tinkerantreats
 Static site for my collections and thoughts
 ### Collections of Items and Tinkering
